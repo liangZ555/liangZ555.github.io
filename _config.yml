@@ -1,7 +1,7 @@
 # Site settings
 title: liangZ555 Blog
 SEOTitle: liangZ55 | lz Blog
-header-img: img/home-bg.jpg
+header-img: img/blackhole-bj.jpeg
 email: liangZ555@github.com
 description: "This is liangZ555's personal homepage, discover the bigger world with you | To be a crazy programmer"
 keyword: " Programmer, design, script "
@@ -75,7 +75,7 @@ ga_track_id: "UA-49627206-1" # Format: UA-xxxxxx-xx
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
 sidebar-about-description: "To be a crazy programmer <br> React Team @ Meta"
-#sidebar-avatar: https://github.com/Huxpro.png # use absolute URL, seeing it's used in both `/` and `/about/`头像
+sidebar-avatar: img/avatar00.jpg # use absolute URL, seeing it's used in both `/` and `/about/`头像
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
