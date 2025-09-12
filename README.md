@@ -1,9 +1,9 @@
-[Hux Blog](https://huangxuan.me)
+[Liangcure Blog](https://liangz555.github.io/)
 ================================
 
-> I never expected this to become popular.
+> this is once test.
 
-![](http://huangxuan.me/img/blog-desktop.jpg)
+![](https://liangz555.github.io/)
 
 
 [User Manual 👉](_doc/Manual.md)
